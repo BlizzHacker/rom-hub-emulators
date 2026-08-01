@@ -189,3 +189,13 @@ that host is declared. `objects.githubusercontent.com`, which GitHub used
 to redirect to, is deliberately **not** declared: it is not in today's
 chain, and a permission granted "just in case" is a permission granted for
 no reason.
+
+---
+
+## Seen working
+
+This plugin installs into a local directory rather than a library backend, so it does not appear in the screenshots. The command transcripts in the showcase show it listing and installing real files, with sizes and hashes.
+
+Full showcase — all three backends (RomM, Gaseous, Retrom), every command transcript, and an honest account of what the pictures do *not* show: **[https://github.com/BlizzHacker/rom-hub/blob/master/docs/SHOWCASE.md](https://github.com/BlizzHacker/rom-hub/blob/master/docs/SHOWCASE.md)**
+
+Part of [ROM Hub](https://github.com/BlizzHacker/rom-hub) — install with `rom-hub plugin install emulators`.
