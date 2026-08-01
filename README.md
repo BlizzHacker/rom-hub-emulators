@@ -1,5 +1,7 @@
 # Standalone emulators plugin for ROM Hub
 
+> Part of **[Cartridge](https://github.com/BlizzHacker/rom-hub/blob/master/BRAND.md)** by MoveWeight — a **[ROMarr](https://github.com/BlizzHacker/romarr)** / ROM Hub plugin. Unofficial; not affiliated with RomM, Gaseous or Retrom.
+
 Implements the RPP v1 `cores` capability for **standalone emulators** —
 DuckStation, mGBA, PCSX2 and melonDS — downloaded from each project's own
 GitHub releases into the Hub's configured cores directory.
